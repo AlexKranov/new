@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKranov/new.git"
+  },
+  "author": "alexkranov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKranov/new/issues"
+  },
+  "homepage": "https://github.com/AlexKranov/new#readme",
+  "dependencies": {
+    "@alexkranov/ajs": "^1.0.0"
+  }
+}
